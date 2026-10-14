@@ -5,3 +5,6 @@ Members:
 Maks Perepelytsia
 Ilia Davoodi
 Nikita Chobotar
+Carter Metcalfe
+Xander Kimmerly
+
