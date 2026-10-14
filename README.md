@@ -3,7 +3,7 @@ Cep146 class group project
 
 Members:
 Maks Perepelytsia
-Ilia Davoodi
+Ilia Davoodi : research 
 Nikita Chobotar
 Carter Metcalfe
 Xander Kimmerly
