@@ -2,9 +2,15 @@
 Cep146 class group project 
 
 Members:
-Maks Perepelytsia
+
+Maks Perepelytsia : research
+
 Ilia Davoodi : research 
-Nikita Chobotar
+
+Nikita Chobotar : script
+
 Carter Metcalfe : research
-Xander Kimmerly
+
+Xander Kimmerly : script
+
 
