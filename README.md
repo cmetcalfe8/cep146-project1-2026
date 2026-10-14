@@ -5,6 +5,6 @@ Members:
 Maks Perepelytsia
 Ilia Davoodi : research 
 Nikita Chobotar
-Carter Metcalfe
+Carter Metcalfe : research
 Xander Kimmerly
 
