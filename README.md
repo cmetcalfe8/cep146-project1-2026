@@ -4,3 +4,4 @@ Cep146 class group project
 Members:
 Maks Perepelytsia
 Ilia Davoodi
+Nikita Chobotar
