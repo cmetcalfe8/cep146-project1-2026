@@ -4,6 +4,17 @@ Today in our video we will be talking about a few different topics involving the
 The topics we will be talking about are, the ethics of it, how it was done, the history of the mapping of the fruit fly brain, and
 why they mapped the fly brain.
 
+
+## Why did they do it (ILIA)
+
+
+So I'm sure when you saw this on the news you asked your self why? why would they put a fly brain in a computer. but it's actully really intresting.
+The sientists behind this are't doing this just to make a digital fly. Their trying to figure out whether a biological brain can be recrated inside a 
+computer and still work like a normal brain. If this study actully sucseeds and their able to simulate how a fly thinks, acts, and moves they might
+be able to do much more with this tecnolegy. A fruit fly brain is a way simpler starting point then a humen brain but if the sientists can acctuly manage 
+to simlate the brin, they could actully atempt to similate a human brain.
+
+
 ## How it was done (CARTER)
 
 
@@ -16,8 +27,8 @@ Tracing all of these by hand would have taken researchers an extremely long time
 follow them from one brain slice to the next. Once the AI had completed most of the tracing, scientists reviewed and corrected the results. 
 In the end, they created a detailed wiring diagram of the fruit fly brain, known as a connectome.
 
-## ETHICS (XANDER)
 
+## ETHICS (XANDER)
 
 Honestly the ethics behind mapping the fruit fly brain is murky at best.
 for example, what if we are all scans of human brains inside of a digital space,
@@ -27,9 +38,7 @@ where the digital person maps another digital person into a lower tier digital p
 into a bilogical body. Would that be the same person?
 
 
-
 ## History (MAKS AND NIKITA)
-
 
 Mapping a fruit fly’s brain was like assembling a tiny, complicated puzzle. Researchers had to follow the paths of
 individual nerve cells through thousands of images.
@@ -45,11 +54,3 @@ The history of this work shows why scientific software matters: collecting a lar
 need practical tools to explore, check, and improve it together.
 
 
-## Why did they do it (ILIA)
-
-
-So I'm sure when you saw this on the news you asked your self why? why would they put a fly brain in a computer. but it's actully really intresting.
-The sientists behind this are't doing this just to make a digital fly. Their trying to figure out whether a biological brain can be recrated inside a 
-computer and still work like a normal brain. If this study actully sucseeds and their able to simulate how a fly thinks, acts, and moves they might
-be able to do much more with this tecnolegy. A fruit fly brain is a way simpler starting point then a humen brain but if the sientists can acctuly manage 
-to simlate the brin, they could actully atempt to similate a human brain.
