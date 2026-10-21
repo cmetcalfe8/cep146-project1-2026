@@ -1,17 +1,11 @@
+# Script
+
 Today in our video we will be talking about a few different topics involving the mapping of a fruit fly brain using AI.
 The topics we will be talking about are, the ethics of it, how it was done, the history of the mapping of the fruit fly brain, and
 why they mapped the fly brain.
 
-History (MAKS)
+## How it was done (CARTER)
 
-Scientists started studying fruit flies in the early 1900s to learn about genetics.
-As technology improved, they began studying their brains in more detail.
-In 2020, scientists mapped about 25,000 neurons in part of the fruit fly brain.
-In 2024, the FlyWire project created a map of the entire brain, showing around 140,000 neurons and over 50 million connections.
-Scientists also used AI to help create this map.
-This discovery helps us better understand how brains work.
-
-How it was done (CARTER)
 
 Scientists reconstructed the fruit fly brain by first preserving the brain and cutting it into thousands of extremely thin slices.
 Each of these slices were then photographed using a microscope, which created highly detailed images of the brain’s cells and structures.
@@ -22,7 +16,8 @@ Tracing all of these by hand would have taken researchers an extremely long time
 follow them from one brain slice to the next. Once the AI had completed most of the tracing, scientists reviewed and corrected the results. 
 In the end, they created a detailed wiring diagram of the fruit fly brain, known as a connectome.
 
-ETHICS (XANDER)
+## ETHICS (XANDER)
+
 
 Honestly the ethics behind mapping the fruit fly brain is murky at best.
 for example, what if we are all scans of human brains inside of a digital space,
@@ -33,7 +28,7 @@ into a bilogical body. Would that be the same person?
 
 
 
-Nikita (History) 
+## History (MAKS AND NIKITA)
 
 
 Mapping a fruit fly’s brain was like assembling a tiny, complicated puzzle. Researchers had to follow the paths of
@@ -49,7 +44,9 @@ browsers.
 The history of this work shows why scientific software matters: collecting a large dataset is useful, but researchers also
 need practical tools to explore, check, and improve it together.
 
-Why did they do it (ilia)
+
+## Why did they do it (ILIA)
+
 
 So I'm sure when you saw this on the news you asked your self why? why would they put a fly brain in a computer. but it's actully really intresting.
 The sientists behind this are't doing this just to make a digital fly. Their trying to figure out whether a biological brain can be recrated inside a 
