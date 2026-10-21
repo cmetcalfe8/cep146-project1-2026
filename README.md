@@ -3,14 +3,14 @@ Cep146 class group project
 
 Members:
 
-Maks Perepelytsia : research
+Maks Perepelytsia : The History of Fruit Fly Brain Mapping
 
-Ilia Davoodi : research 
+Ilia Davoodi : Why scientists mapped the fruit fly brain with AI
 
-Nikita Chobotar : script
+Nikita Chobotar : The people behind mapping the fruit fly brain with AI
 
-Carter Metcalfe : research
+Carter Metcalfe : How the fruit fly brain was mapped
 
-Xander Kimmerly : script
+Xander Kimmerly : Ethics of mapping fruit flys brain with AI
 
 
