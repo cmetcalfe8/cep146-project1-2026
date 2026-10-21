@@ -1,16 +1,25 @@
-# cep146-project1-2026
-Cep146 class group project 
+# Fruit fly brain mapping with AI
+## Cep146 class group project 
 
-Members:
+This project explores how scientists used artificial intelligence to help map and reconstruct the fruit fly brain. The goal of the project is to explain the development of the research, why scientists chose to study the fruit fly brain, who contributed to the work, how the brain was reconstructed, and some of the ethical questions surrounding the use of AI in brain mapping.
 
-Maks Perepelytsia : research
+our group will combine these sections into a video presentation that explains fruit fly brain mapping from multiple perspectives. 
+[video link]()
 
-Ilia Davoodi : research 
+## Group Members
 
-Nikita Chobotar : script
+**Maks Perepelytsia**: 
+The History of Fruit Fly Brain Mapping with AI
 
-Carter Metcalfe : research
+**Ilia Davoodi**: 
+Why scientists mapped the fruit fly brain with AI
 
-Xander Kimmerly : script
+**Nikita Chobotar**: 
+The people behind mapping the fruit fly brain with AI
 
+**Carter Metcalfe**: 
+How the fruit fly brain was mapped
+
+**Xander Kimmerly**: 
+Ethics of mapping fruit flys brain with AI
 
