@@ -3,7 +3,7 @@ Cep146 class group project
 
 Members:
 
-Maks Perepelytsia : The History of Fruit Fly Brain Mapping
+Maks Perepelytsia : The History of Fruit Fly Brain Mapping with AI
 
 Ilia Davoodi : Why scientists mapped the fruit fly brain with AI
 
