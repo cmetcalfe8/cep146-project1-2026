@@ -4,7 +4,10 @@
 This project explores how scientists used artificial intelligence to help map and reconstruct the fruit fly brain. The goal of the project is to explain the development of the research, why scientists chose to study the fruit fly brain, who contributed to the work, how the brain was reconstructed, and some of the ethical questions surrounding the use of AI in brain mapping.
 
 our group will combine these sections into a video presentation that explains fruit fly brain mapping from multiple perspectives. 
-[video link]()
+
+YOUTUBE LINK:
+
+[YOUTUBE LINK](https://www.youtube.com/watch?v=mcirdQEQMX8)
 
 ## Group Members
 
