@@ -1,3 +1,5 @@
+# Why the fly brain diagram was made
+
 So I'm sure when you saw this on the news you asked your self why? why would they put a fly brain in a computer. but it's actully really intresting.
 The sientists behind this are't doing this just to make a digital fly. Their trying to figure out whether a biological brain can be recrated inside a 
 computer and still work like a normal brain. If this study actully sucseeds and their able to simulate how a fly thinks, acts, and moves they might
